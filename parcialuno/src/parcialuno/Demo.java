@@ -3,6 +3,8 @@ package parcialuno;
 import java.util.Arrays;
 
 public class Demo {
+	//realizando cambios desde github al repo local
+	//poniendo a prueba el comando git pull
 
 	public static void main(String[] args) {
 		double areaTotal = 0;
